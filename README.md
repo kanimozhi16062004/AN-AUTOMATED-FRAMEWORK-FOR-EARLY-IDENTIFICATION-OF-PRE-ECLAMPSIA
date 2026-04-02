@@ -1,0 +1,2 @@
+# AN-AUTOMATED-FRAMEWORK-FOR-EARLY-IDENTIFICATION-OF-PRE-ECLAMPSIA
+An AI-based web application that predicts the risk of preeclampsia using machine learning models and antenatal clinical data. The system classifies patients into low, moderate, and high-risk categories and uses explainable AI to highlight key factors influencing the prediction, supporting early diagnosis and clinical decision-making.
